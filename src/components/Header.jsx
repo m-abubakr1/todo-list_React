@@ -26,7 +26,7 @@ export default function Header() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/about">
+              <a className="nav-link" href="/about.jsx">
                 About
               </a>
             </li>
